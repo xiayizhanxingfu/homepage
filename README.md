@@ -1,5 +1,6 @@
 # java教程
->1. [java安装与配置环境变量](https://xiayizhanxingfu.github.io/java-course/)
+## [主页](https://xiayizhanxingfu.github.io/java-course/)
+>1. [java安装与配置环境变量](https://xiayizhanxingfu.github.io/java-course/java安装与环境变量配置/)
 
 # javaweb
 ## [主页](https://xiayizhanxingfu.github.io/javaweb/)
