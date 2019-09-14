@@ -11,3 +11,7 @@
 # 设计模式
 ## [主页](https://xiayizhanxingfu.github.io/Design-pattern/)
 >1. [工厂模式](https://xiayizhanxingfu.github.io/Design-pattern/FactoryPattem/)
+
+# 其他
+## [主页](https://xiayizhanxingfu.github.io/rests/)
+>1. [正则表达式](https://xiayizhanxingfu.github.io/rests/正则表达式)
