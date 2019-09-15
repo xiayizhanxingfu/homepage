@@ -7,12 +7,13 @@
 ## [主页](https://xiayizhanxingfu.github.io/javaweb/)
 >1. [Session会话](https://xiayizhanxingfu.github.io/javaweb/Session/)
 >2. [监听事件原理](https://xiayizhanxingfu.github.io/javaweb/监听事件原理/)
+>3. [EL基础教程](https://xiayizhanxingfu.github.io/javaweb/EL基础教程/)
 
 # 设计模式
 ## [主页](https://xiayizhanxingfu.github.io/Design-pattern/)
 >1. [工厂模式](https://xiayizhanxingfu.github.io/Design-pattern/FactoryPattem/)
->2. [抽象工厂模式](https://xiayizhanxingfu.github.io/Design-pattern/AbstractFactoryPattem)
+>2. [抽象工厂模式](https://xiayizhanxingfu.github.io/Design-pattern/AbstractFactoryPattem/)
 
 # 其他
 ## [主页](https://xiayizhanxingfu.github.io/rests/)
->1. [正则表达式](https://xiayizhanxingfu.github.io/rests/正则表达式)
+>1. [正则表达式](https://xiayizhanxingfu.github.io/rests/正则表达式/)
