@@ -8,7 +8,7 @@
 >1. [Session会话](https://xiayizhanxingfu.github.io/javaweb/Session/)
 >2. [监听事件原理](https://xiayizhanxingfu.github.io/javaweb/监听事件原理/)
 >3. [EL基础教程](https://xiayizhanxingfu.github.io/javaweb/EL基础教程/)
->4. [JSTL基础教程](https://xiayizhanxingfu.github.io/javaweb/JSTL基础教程/JSTL_core标签库.md)
+>4. [JSTL基础教程](https://xiayizhanxingfu.github.io/javaweb/JSTL基础教程/JSTL_core标签库)
 
 # 设计模式
 ## [主页](https://xiayizhanxingfu.github.io/Design-pattern/)
